@@ -1,0 +1,15 @@
+/Users/arturgaliev/Desktop/Proverca/trrr/Example001/Example002/bin/Debug/net6.0/Example002
+/Users/arturgaliev/Desktop/Proverca/trrr/Example001/Example002/bin/Debug/net6.0/Example002.deps.json
+/Users/arturgaliev/Desktop/Proverca/trrr/Example001/Example002/bin/Debug/net6.0/Example002.runtimeconfig.json
+/Users/arturgaliev/Desktop/Proverca/trrr/Example001/Example002/bin/Debug/net6.0/Example002.dll
+/Users/arturgaliev/Desktop/Proverca/trrr/Example001/Example002/bin/Debug/net6.0/ref/Example002.dll
+/Users/arturgaliev/Desktop/Proverca/trrr/Example001/Example002/bin/Debug/net6.0/Example002.pdb
+/Users/arturgaliev/Desktop/Proverca/trrr/Example001/Example002/obj/Debug/net6.0/Example002.csproj.AssemblyReference.cache
+/Users/arturgaliev/Desktop/Proverca/trrr/Example001/Example002/obj/Debug/net6.0/Example002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arturgaliev/Desktop/Proverca/trrr/Example001/Example002/obj/Debug/net6.0/Example002.AssemblyInfoInputs.cache
+/Users/arturgaliev/Desktop/Proverca/trrr/Example001/Example002/obj/Debug/net6.0/Example002.AssemblyInfo.cs
+/Users/arturgaliev/Desktop/Proverca/trrr/Example001/Example002/obj/Debug/net6.0/Example002.csproj.CoreCompileInputs.cache
+/Users/arturgaliev/Desktop/Proverca/trrr/Example001/Example002/obj/Debug/net6.0/Example002.dll
+/Users/arturgaliev/Desktop/Proverca/trrr/Example001/Example002/obj/Debug/net6.0/ref/Example002.dll
+/Users/arturgaliev/Desktop/Proverca/trrr/Example001/Example002/obj/Debug/net6.0/Example002.pdb
+/Users/arturgaliev/Desktop/Proverca/trrr/Example001/Example002/obj/Debug/net6.0/Example002.genruntimeconfig.cache
